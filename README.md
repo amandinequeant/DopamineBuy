@@ -67,6 +67,8 @@ Quality considerations include:
 - Defect identification and resolution
 - Continuous product improvement
 
+<img width="742" height="546" alt="readme photo2 buy" src="https://github.com/user-attachments/assets/2f1dc0de-25b4-4fef-b0a0-b9e6bc955f79" />
+
 ---
 
 ## 🎯 Objectives
